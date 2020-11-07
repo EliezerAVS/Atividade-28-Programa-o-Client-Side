@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+}
+#geral{
+    width: 100%;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    /* border: 1px solid; */
+}
+label{
+    font-size: 25px;
+}
+input{
+    font-size: 20px;
+}
+#exibir{
+    text-align: center;
+    font-size: 30px;
+}
